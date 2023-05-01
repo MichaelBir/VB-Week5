@@ -1,0 +1,15 @@
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/OR_Operator/bin/Debug/net7.0/OR_Operator
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/OR_Operator/bin/Debug/net7.0/OR_Operator.deps.json
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/OR_Operator/bin/Debug/net7.0/OR_Operator.runtimeconfig.json
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/OR_Operator/bin/Debug/net7.0/OR_Operator.dll
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/OR_Operator/bin/Debug/net7.0/OR_Operator.pdb
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/OR_Operator/obj/Debug/net7.0/OR_Operator.csproj.AssemblyReference.cache
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/OR_Operator/obj/Debug/net7.0/OR_Operator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/OR_Operator/obj/Debug/net7.0/OR_Operator.AssemblyInfoInputs.cache
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/OR_Operator/obj/Debug/net7.0/OR_Operator.AssemblyInfo.cs
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/OR_Operator/obj/Debug/net7.0/OR_Operator.csproj.CoreCompileInputs.cache
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/OR_Operator/obj/Debug/net7.0/OR_Operator.dll
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/OR_Operator/obj/Debug/net7.0/refint/OR_Operator.dll
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/OR_Operator/obj/Debug/net7.0/OR_Operator.pdb
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/OR_Operator/obj/Debug/net7.0/OR_Operator.genruntimeconfig.cache
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/OR_Operator/obj/Debug/net7.0/ref/OR_Operator.dll

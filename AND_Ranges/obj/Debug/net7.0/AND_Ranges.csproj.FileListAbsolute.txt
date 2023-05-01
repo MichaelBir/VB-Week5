@@ -1,0 +1,15 @@
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Ranges/obj/Debug/net7.0/AND_Ranges.csproj.AssemblyReference.cache
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Ranges/obj/Debug/net7.0/AND_Ranges.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Ranges/obj/Debug/net7.0/AND_Ranges.AssemblyInfoInputs.cache
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Ranges/obj/Debug/net7.0/AND_Ranges.AssemblyInfo.cs
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Ranges/obj/Debug/net7.0/AND_Ranges.csproj.CoreCompileInputs.cache
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Ranges/bin/Debug/net7.0/AND_Ranges
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Ranges/bin/Debug/net7.0/AND_Ranges.deps.json
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Ranges/bin/Debug/net7.0/AND_Ranges.runtimeconfig.json
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Ranges/bin/Debug/net7.0/AND_Ranges.dll
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Ranges/bin/Debug/net7.0/AND_Ranges.pdb
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Ranges/obj/Debug/net7.0/AND_Ranges.dll
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Ranges/obj/Debug/net7.0/refint/AND_Ranges.dll
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Ranges/obj/Debug/net7.0/AND_Ranges.pdb
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Ranges/obj/Debug/net7.0/AND_Ranges.genruntimeconfig.cache
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Ranges/obj/Debug/net7.0/ref/AND_Ranges.dll

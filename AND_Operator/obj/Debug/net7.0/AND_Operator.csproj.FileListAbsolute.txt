@@ -1,0 +1,15 @@
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Operator/obj/Debug/net7.0/AND_Operator.csproj.AssemblyReference.cache
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Operator/obj/Debug/net7.0/AND_Operator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Operator/obj/Debug/net7.0/AND_Operator.AssemblyInfoInputs.cache
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Operator/obj/Debug/net7.0/AND_Operator.AssemblyInfo.cs
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Operator/obj/Debug/net7.0/AND_Operator.csproj.CoreCompileInputs.cache
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Operator/bin/Debug/net7.0/AND_Operator
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Operator/bin/Debug/net7.0/AND_Operator.deps.json
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Operator/bin/Debug/net7.0/AND_Operator.runtimeconfig.json
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Operator/bin/Debug/net7.0/AND_Operator.dll
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Operator/bin/Debug/net7.0/AND_Operator.pdb
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Operator/obj/Debug/net7.0/AND_Operator.dll
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Operator/obj/Debug/net7.0/refint/AND_Operator.dll
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Operator/obj/Debug/net7.0/AND_Operator.pdb
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Operator/obj/Debug/net7.0/AND_Operator.genruntimeconfig.cache
+/Users/mihkelkask/Desktop/RKE129/VisualStudio/Week_5/AND_Operator/obj/Debug/net7.0/ref/AND_Operator.dll
